@@ -1,0 +1,41 @@
+.workshop1{
+    width: 277px;
+    height: 500px;
+    background-color:  #f8ecd4ea;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.workshop2{
+    width: 277px;
+    height: 500px;
+    background-color:  #1a1a1aea;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.workshop3{
+    width: 277px;
+    height: 500px;
+    background-color:  #fffaf1ea;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.poster1{
+    border-radius: 10px;
+    width: 277px;
+    height: 390px;
+}
+.poster2{
+    border-radius: 10px;
+    width: 277px;
+    height: 390px;
+}
+.poster3{
+    border-radius: 10px;
+    width: 277px;
+    height: 390px;
+}

@@ -1,0 +1,30 @@
+/* On screens that are 992px wide or less, the background color is blue */
+@media screen and (min-width: 600px) {
+       .pozacalendar{
+        display: flex;
+        width: 675px;
+        height: 400px;
+       
+    
+    }
+  }
+  
+  /* On screens that are 600px wide or less, the background color is olive */
+  @media screen and (max-width: 600px) {
+    .pozacalendar{
+        display: flex;
+        width: 333px;
+        height: 200px;
+        
+    }
+  }
+  @media screen and (max-width: 300px) {
+    .pozacalendar{
+        
+        width: 300px;
+        height: 150px;
+        
+    }
+  }
+  
+  

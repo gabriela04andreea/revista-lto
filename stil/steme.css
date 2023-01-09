@@ -1,0 +1,33 @@
+
+@media only screen and (min-width: 600px) {
+  
+ 
+    .steme1{
+        display: none;
+        justify-content: center;
+
+    }
+
+    .steme{
+        display: flex;
+        justify-content: center;
+    }
+   
+}
+
+
+@media only screen and (max-width: 600px) {
+    .steme{
+        display: none;
+        justify-content: center;
+
+    }
+    .steme1{
+        display: flex;
+        justify-content: center;
+
+    }
+    .poze{
+        margin: 0px;
+    }
+}

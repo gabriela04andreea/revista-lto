@@ -1,0 +1,27 @@
+.containerart{
+    padding: 0;
+    margin: 1;
+    list-style: none;
+    border: 1px solid silver;
+    -ms-box-orient: horizontal;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    border: 50px;
+    border-color: black;
+    justify-content: center;
+    
+}
+.articol{
+    margin: 20px;
+    width: 250px;
+    height: 250px;
+ background-color:rgba(172, 95, 95, 0.856);
+
+ border-radius: 25px;
+}
